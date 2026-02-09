@@ -1,0 +1,12 @@
+ Volume in drive E is WORK RELATED
+ Volume Serial Number is E491-E9A5
+
+ Directory of E:\classwork
+
+02/09/2026  02:18 PM    <DIR>          .
+02/09/2026  02:16 PM               290 .gitignore
+02/09/2026  02:18 PM                 0 a.txt
+02/09/2026  02:16 PM            35,149 LICENSE
+02/09/2026  02:16 PM                60 README.md
+               4 File(s)         35,499 bytes
+               1 Dir(s)  35,108,139,008 bytes free
